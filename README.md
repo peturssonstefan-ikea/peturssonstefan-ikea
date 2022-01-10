@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @peturssonstefan-ikea
+- Currently building integrations against VETA. 
+- Love talking about programming languages and NBA. 
